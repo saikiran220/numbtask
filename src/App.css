@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  
+}
+.Listitem{
+  list-style: none;  
+  display: ruby-text;
+  font-size: large;
+  font-weight: 700;
+}
+.Listitem ul {
+ font-size: large;
+}
+
+
+  
+
+
